@@ -1,2 +1,2 @@
-# calc_javascript
-Calculadora em JavaScript
+# Calculadora simples com JAVASCRIP, HTML, CSS.
+
